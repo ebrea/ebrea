@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ebrea
 - 👀 I’m interested in migrating my career to IT
 - 🌱 I’m currently learning Python
-- 💞️ I'm looking to an opportune
+- 💞️ I'm looking to an opportunity
 
 <!---
 ebrea/ebrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
