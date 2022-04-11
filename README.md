@@ -1,4 +1,4 @@
-- Hi, I’m @ebrea
+- Hi, I’m Eber Brea.
 - I’m interested in improve my knowledge in IT
 - I've just finished a bootcamp including Linux, Shell scripting, systems architecture, container orchestration with Dockers, PostgreSQL databases, MongoDB, NoSQL, ETL with Python, Pandas library, Big Data tools, data engineering, and others hard skills. Currently I am studying Full-Stack at ALURA.
 -  👀 I'm looking for an opportunity to work in IT
